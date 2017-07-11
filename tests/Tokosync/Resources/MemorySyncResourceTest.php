@@ -3,7 +3,7 @@
 namespace Tokosync\Resources;
 use PHPUnit\Framework\TestCase;
 use Tokosync\Filters\CharLimitFilter;
-use Tokosync\SyncItem;
+use Tokosync\Resources\SyncItem;
 
 /**
  * Created by PhpStorm.

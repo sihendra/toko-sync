@@ -9,7 +9,7 @@
 namespace Tokosync\Filters;
 
 
-use Tokosync\SyncItem;
+use Tokosync\Resources\SyncItem;
 
 interface SyncFilter
 {

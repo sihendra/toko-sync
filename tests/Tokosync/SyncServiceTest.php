@@ -11,6 +11,7 @@ namespace Tokosync;
 
 use PHPUnit\Framework\TestCase;
 use Tokosync\Resources\MemorySyncResource;
+use Tokosync\Resources\SyncItem;
 
 class SyncServiceTest extends TestCase
 {

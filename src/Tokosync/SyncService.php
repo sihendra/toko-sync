@@ -9,6 +9,8 @@
 namespace Tokosync;
 
 
+use Tokosync\Resources\SyncItem;
+
 class SyncService
 {
     /**

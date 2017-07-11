@@ -10,7 +10,7 @@ namespace Tokosync\Resources;
 
 
 use Tokosync\Filters\SyncFilter;
-use Tokosync\SyncItem;
+use Tokosync\Resources\SyncItem;
 
 interface SyncResource
 {

@@ -3,7 +3,7 @@
 namespace Tokosync\Resources;
 
 use Tokosync\Filters\SyncFilter;
-use Tokosync\SyncItem;
+use Tokosync\Resources\SyncItem;
 
 /**
  * Created by PhpStorm.

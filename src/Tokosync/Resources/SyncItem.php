@@ -6,7 +6,7 @@
  * Time: 17:13
  */
 
-namespace Tokosync;
+namespace Tokosync\Resources;
 
 
 use ArrayAccess;
