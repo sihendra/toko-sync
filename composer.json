@@ -1,0 +1,22 @@
+{
+    "name": "hendra/toko-sync",
+    "description": "Sync products between various e-commerce stores",
+    "type": "library",
+    "keywords": [
+        "woocommerce",
+        "tokopedia"
+    ],
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hendra Setiawan",
+            "email": "sihendra@gmail.com"
+        }
+    ]
+}
